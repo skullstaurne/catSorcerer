@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - fallingObstacle
+  - floor
+  - bulletEnemy
+  - damage
+  - missile
+  - bulletPlr
+  - inkPlatform
+  - danmakuSpawner
+  - fishHearth
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - plr
+  - Water
+  - UI
+  - enemy
+  - platform
+  - platform2
+  - missile
+  - plrWeapon
+  - background2
+  - background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: boulder
+    uniqueID: 1811523643
+    locked: 0
+  - name: New Layer
+    uniqueID: 726320141
+    locked: 0
